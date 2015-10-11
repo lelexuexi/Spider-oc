@@ -128,10 +128,10 @@
 //    NSLog(@"%@",content);
     
     NSArray *array = [content matchesWithPattern:@"梦见：<a href=\"/.*?\"><u>(.*?)</u></a>" keys:@[@"title"]];
-//    NSLog(@"%@",array);
+
     
     NSDictionary *item = @{@"category": category, @"title": dict[@"name"], @"desc": desc};
-//    NSLog(@"%@",items);
+    NSLog(@"%@",self.dataList);
     
     [self.dataList addObject:item];
     

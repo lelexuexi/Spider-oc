@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4E31FD8718CEC2746C6AADED4C04696DC3FB8931",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4E31FD8718CEC2746C6AADED4C04696DC3FB8931" : 0,
+    "EB3EE0FFE12D30941EC3C7C5F74A5EC5E9AAC980" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "14259184-56F0-4F76-9706-B6EC64D540F3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4E31FD8718CEC2746C6AADED4C04696DC3FB8931" : "%E7%88%AC%E8%99%AB%E6%B5%8B%E8%AF%95\/",
+    "EB3EE0FFE12D30941EC3C7C5F74A5EC5E9AAC980" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "爬虫测试",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "爬虫测试.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wuzer\/-.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4E31FD8718CEC2746C6AADED4C04696DC3FB8931"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:wuzer\/microBlog.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EB3EE0FFE12D30941EC3C7C5F74A5EC5E9AAC980"
+    }
+  ]
+}
